@@ -1,0 +1,127 @@
+2023-12-22-01:21:04 INFO  BaseTest : configuration : Report configuration started
+2023-12-22-01:21:04 INFO  BaseTest : configuration : Report configuration Finished
+2023-12-22-01:21:07 INFO  BaseTest : getBrowserType : Chrome browser configured
+2023-12-22-01:21:07 INFO  BaseTest : preCondition : 
+2023-12-22-01:21:20 INFO  BaseTest : preCondition : 
+2023-12-22-01:21:20 INFO  BaseTest : selectMyProfile_TC06 : 
+2023-12-22-01:21:26 INFO  BaseTest : closeDriver : 
+2023-12-22-01:21:28 INFO  BaseTest : getBrowserType : Chrome browser configured
+2023-12-22-01:21:28 INFO  BaseTest : preCondition : 
+2023-12-22-01:21:40 INFO  BaseTest : preCondition : 
+2023-12-22-01:21:42 INFO  BaseTest : closeDriver : 
+2023-12-22-01:21:42 INFO  BaseTest : tearDown : After suite finished
+2024-01-02-21:25:00 INFO  BaseTest : configuration : Report configuration started
+2024-01-02-21:25:00 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-02-21:25:03 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-02-21:25:03 INFO  BaseTest : preCondition : 
+2024-01-02-21:25:11 INFO  BaseTest : preCondition : 
+2024-01-02-21:25:11 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-02-22:53:39 INFO  BaseTest : configuration : Report configuration started
+2024-01-02-22:53:39 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-02-22:53:40 INFO  BaseTest : tearDown : After suite finished
+2024-01-02-22:54:17 INFO  BaseTest : configuration : Report configuration started
+2024-01-02-22:54:17 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-02-22:54:18 INFO  BaseTest : tearDown : After suite finished
+2024-01-02-22:55:05 INFO  BaseTest : configuration : Report configuration started
+2024-01-02-22:55:05 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-02-22:55:05 INFO  BaseTest : tearDown : After suite finished
+2024-01-02-22:55:18 INFO  BaseTest : configuration : Report configuration started
+2024-01-02-22:55:18 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-02-22:55:19 INFO  BaseTest : tearDown : After suite finished
+2024-01-02-22:56:56 INFO  BaseTest : configuration : Report configuration started
+2024-01-02-22:56:56 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-02-22:56:56 INFO  BaseTest : tearDown : After suite finished
+2024-01-02-22:59:55 INFO  BaseTest : configuration : Report configuration started
+2024-01-02-22:59:55 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-03-23:44:36 INFO  BaseTest : configuration : Report configuration started
+2024-01-03-23:44:36 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-03-23:44:40 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-03-23:44:40 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-03-23:44:40 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-03-23:44:40 INFO  BaseTest : preCondition : 
+2024-01-03-23:44:40 INFO  BaseTest : preCondition : 
+2024-01-03-23:44:40 INFO  BaseTest : preCondition : 
+2024-01-03-23:45:04 INFO  BaseTest : preCondition : 
+2024-01-04-00:02:48 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-00:02:48 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-00:02:52 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:02:52 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:02:52 INFO  BaseTest : preCondition : 
+2024-01-04-00:02:52 INFO  BaseTest : preCondition : 
+2024-01-04-00:03:05 INFO  BaseTest : preCondition : 
+2024-01-04-00:03:05 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-00:03:09 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:03:09 INFO  BaseTest : preCondition : 
+2024-01-04-00:03:22 INFO  BaseTest : preCondition : 
+2024-01-04-00:05:26 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-00:05:26 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-00:05:30 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:05:30 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:05:30 INFO  BaseTest : preCondition : 
+2024-01-04-00:05:30 INFO  BaseTest : preCondition : 
+2024-01-04-00:05:31 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:05:31 INFO  BaseTest : preCondition : 
+2024-01-04-00:05:43 INFO  BaseTest : preCondition : 
+2024-01-04-00:05:45 INFO  BaseTest : preCondition : 
+2024-01-04-00:07:34 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-00:07:34 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-00:07:38 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:07:38 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:07:38 INFO  BaseTest : preCondition : 
+2024-01-04-00:07:38 INFO  BaseTest : preCondition : 
+2024-01-04-00:07:38 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:07:38 INFO  BaseTest : preCondition : 
+2024-01-04-00:07:52 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-00:07:53 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-00:07:54 INFO  BaseTest : tearDown : After suite finished
+2024-01-04-00:15:43 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-00:15:43 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-00:15:45 INFO  BaseTest : getBrowserType : safari browser configured
+2024-01-04-00:15:45 INFO  BaseTest : preCondition : 
+2024-01-04-00:15:49 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-00:17:03 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-00:17:03 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-00:17:08 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:17:08 INFO  BaseTest : preCondition : 
+2024-01-04-00:17:08 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:17:08 INFO  BaseTest : preCondition : 
+2024-01-04-00:17:08 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-00:17:08 INFO  BaseTest : preCondition : 
+2024-01-04-00:17:22 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-00:17:25 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-00:17:26 INFO  BaseTest : tearDown : After suite finished
+2024-01-04-22:56:55 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-22:56:55 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-22:58:47 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-22:58:47 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-22:58:50 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-22:58:50 INFO  BaseTest : preCondition : 
+2024-01-04-22:59:04 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-22:59:39 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-22:59:39 INFO  BaseTest : preCondition : 
+2024-01-04-22:59:52 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-22:59:54 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-22:59:54 INFO  BaseTest : preCondition : 
+2024-01-04-23:00:10 INFO  BaseTest : tearDown : After suite finished
+2024-01-04-23:01:14 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-23:01:14 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-23:01:18 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-23:01:18 INFO  BaseTest : preCondition : 
+2024-01-04-23:01:18 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-23:01:18 INFO  BaseTest : preCondition : 
+2024-01-04-23:01:18 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-23:01:18 INFO  BaseTest : preCondition : 
+2024-01-04-23:01:36 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-23:01:36 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-23:02:06 INFO  BaseTest : tearDown : After suite finished
+2024-01-04-23:11:20 INFO  BaseTest : configuration : Report configuration started
+2024-01-04-23:11:20 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-04-23:11:23 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-23:11:23 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-23:11:23 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-04-23:11:23 INFO  BaseTest : preCondition : 
+2024-01-04-23:11:23 INFO  BaseTest : preCondition : 
+2024-01-04-23:11:23 INFO  BaseTest : preCondition : 
+2024-01-04-23:11:39 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-23:11:40 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-04-23:12:07 INFO  BaseTest : tearDown : After suite finished
