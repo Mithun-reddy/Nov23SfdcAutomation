@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
 import org.openqa.selenium.safari.SafariOptions;
 import org.testng.annotations.AfterMethod;
@@ -88,6 +89,11 @@ public class BaseTest {
 		case "firefox":
 			driver = new FirefoxDriver();
 			logger.info("BaseTest : getBrowserType : firefox browser configured");
+			break;
+
+		case "IE":
+			driver = new InternetExplorerDriver();
+			logger.info("BaseTest : getBrowserType : IE browser configured");
 			break;
 			
 		default:
