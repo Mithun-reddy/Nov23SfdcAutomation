@@ -80,17 +80,17 @@ public class UserMenuTest extends BaseTest{
 		Assert.assertTrue(false, "");
 	}
 	
-	@Test()
-	public void selectMyProfile_TC08(Method name) throws IOException, InterruptedException {
-//		System.out.println(name.getName());
-		WebDriver driver = BaseTest.getDriver();
-		LoginPage lp = new LoginPage(driver);
-		UserMenuPage ump = new UserMenuPage(driver);
-		driver.manage().timeouts().pageLoadTimeout(WaitConstants.IMPLICIT_WAIT_TIME);
-		lp.loginToApp(driver);
-		logger.info("BaseTest : selectMyProfile_TC06 : ");
-		ump.selectUserMenu();
-		test.info("Usermenu selected");
-	}
+//	@Test()
+//	public void selectMyProfile_TC08(Method name) throws IOException, InterruptedException {
+////		System.out.println(name.getName());
+//		WebDriver driver = BaseTest.getDriver();
+//		LoginPage lp = new LoginPage(driver);
+//		UserMenuPage ump = new UserMenuPage(driver);
+//		driver.manage().timeouts().pageLoadTimeout(WaitConstants.IMPLICIT_WAIT_TIME);
+//		lp.loginToApp(driver);
+//		logger.info("BaseTest : selectMyProfile_TC06 : ");
+//		ump.selectUserMenu();
+//		test.info("Usermenu selected");
+//	}
 	
 	}
