@@ -89,11 +89,6 @@ public class BaseTest {
 			driver = new FirefoxDriver();
 			logger.info("BaseTest : getBrowserType : firefox browser configured");
 			break;
-
-		case "edge":
-			driver = new EdgeDriver();
-			logger.info("BaseTest : getBrowserType : edge browser configured");
-			break;
 			
 		default:
 			driver = null;
