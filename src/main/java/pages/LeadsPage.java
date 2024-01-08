@@ -1,5 +1,12 @@
 package pages;
 
-public class LeadsPage {
+import org.openqa.selenium.WebDriver;
+
+public class LeadsPage extends BasePage{
+	
+	public LeadsPage(WebDriver driver) {
+		super(driver);
+	}
+	
 
 }
