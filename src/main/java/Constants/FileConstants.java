@@ -19,5 +19,6 @@ public class FileConstants {
 //	/Nov23_sfdc_automation/src/test/resources/Screenshots
 	public static final String SCREENSHOTS_FOLDER_PATH = System.getProperty("user.dir")+"/src/test/resources/Screenshots/"+CommonUtils.getDateAndTimeStamp()+".PNG";
 	public static final String REPORT_FOLDER_PATH = System.getProperty("user.dir")+"/src/test/resources/SFDC_"+CommonUtils.getDateAndTimeStamp()+".html";
+	public static final String API_TEST_DATA_FILE = System.getProperty("user.dir")+"/src/main/java/ApiTestData/testData.json";
 	
 }
