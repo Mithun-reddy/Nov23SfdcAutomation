@@ -40,17 +40,6 @@ public class LoginTest extends BaseTest {
 		System.out.println("method1");
 	}
 	
-//	@Test (priority = -1, groups = "smoke" )
-	public void method2() throws IOException {
-//		WebDriver driver = BaseTest.getBrowserType("chrome");
-//		LoginPage lp = new LoginPage(driver);
-//		driver.get(FileUtils.readLoginTestData("prod.app.url"));
-//		lp.enterUsername(FileUtils.readLoginTestData("prod.username"));
-//		lp.enterPassword(FileUtils.readLoginTestData("prod.password"));
-//		lp.selectRememberMeCheckbox();
-//		lp.clickLoginButton();
-		System.out.println("method2");
-	}
 	
 //	@Test(dataProvider = "loginTestData", dataProviderClass = DataProviders.class)
 	public void login(String username, String pass) throws IOException {

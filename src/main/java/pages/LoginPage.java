@@ -26,9 +26,6 @@ public class LoginPage extends BasePage {
 	@FindBy(name = "Login")
 	public WebElement loginButton;
 
-	@FindBy(xpath = "//*[@id='rememberUn']")
-	public WebElement rememberMe;
-
 	@FindBy(id = "error")
 	public WebElement errorMessage;
 
