@@ -1,0 +1,11 @@
+2024-01-10-00:28:55 INFO  BaseTest : configuration : Report configuration started
+2024-01-10-00:28:55 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-10-00:28:58 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-10-00:28:58 INFO  BaseTest : preCondition : 
+2024-01-10-00:29:13 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-01-10-00:30:24 INFO  BaseTest : tearDown : After suite finished
+2024-01-10-00:31:34 INFO  BaseTest : configuration : Report configuration started
+2024-01-10-00:31:34 INFO  BaseTest : configuration : Report configuration Finished
+2024-01-10-00:31:35 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-01-10-00:31:35 INFO  BaseTest : preCondition : 
+2024-01-10-00:31:51 INFO  BaseTest : selectMyProfile_TC06 : 

@@ -1,0 +1,25 @@
+{
+	"headers": {
+		"login": {
+			"Content-Type": "application/json"
+		}
+	},
+	"payload": {
+		"login": {
+			"username": "mithun@ta.com",
+			"password": "mithun"
+		},
+		"addUser": {
+			"accountno": "TA-5781444",
+			"departmentno": "5",
+			"salary": "1111",
+			"pincode": "110023"
+		}
+	},
+	"endPoints": {
+		"login" : "login",
+		"addData": "addData",
+		"getData" : "getdata"
+	}
+	
+}
