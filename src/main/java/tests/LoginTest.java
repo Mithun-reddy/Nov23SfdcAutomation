@@ -27,8 +27,8 @@ public class LoginTest extends BaseTest {
 		LoginPage lp = new LoginPage(driver);
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		driver.get(FileUtils.readLoginTestData("prod.app.url"));
-		js.executeScript("arguments[0].value='123456789';",lp.username);
-//		lp.username.sendKeys(FileUtils.readLoginTestData("prod.username"));
+//		js.executeScript("arguments[0].value='123456789';",lp.username);
+		lp.username.sendKeys(FileUtils.readLoginTestData("prod.username"));
 		lp.password.sendKeys(FileUtils.readLoginTestData("prod.password"));
 //		lp.loginButton.click();
 		js.executeScript("arguments[0].click();",lp.loginButton);

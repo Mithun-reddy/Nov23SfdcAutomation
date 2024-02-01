@@ -5,11 +5,7 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-import org.openqa.selenium.json.Json;
-
-import com.jayway.jsonpath.Filter;
 import com.jayway.jsonpath.JsonPath;
-import com.jayway.jsonpath.Predicate;
 
 import Constants.FileConstants;
 

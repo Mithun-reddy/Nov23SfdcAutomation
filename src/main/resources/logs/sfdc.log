@@ -9,3 +9,5 @@
 2024-01-10-00:31:35 INFO  BaseTest : getBrowserType : Chrome browser configured
 2024-01-10-00:31:35 INFO  BaseTest : preCondition : 
 2024-01-10-00:31:51 INFO  BaseTest : selectMyProfile_TC06 : 
+2024-02-01-00:23:17 INFO  BaseTest : getBrowserType : Chrome browser configured
+2024-02-01-00:23:19 INFO  BaseTest : getBrowserType : Chrome browser configured
